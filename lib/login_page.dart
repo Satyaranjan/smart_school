@@ -20,7 +20,7 @@ class LoginPage extends StatelessWidget{
         primarySwatch: Colors.blue,
       ),
       home: Scaffold(
-        backgroundColor: Colors.indigoAccent,
+        backgroundColor: Colors.green,
         appBar: AppBar(title: const Text(_title), leading:  IconButton(onPressed: (){
                   Navigator.pop(context);
                  },
