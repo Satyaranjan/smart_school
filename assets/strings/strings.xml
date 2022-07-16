@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoPathshala</string>
+    <!--Grid view-->
+    <string name="admission_section">ADMISSION SECTION</string>
+    <string name="admission_register">ADMISSION REGISTER</string>
+    <string name="attendance_register">ATTENDANCE REGISTER</string>
+
+</resources>
